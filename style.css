@@ -13,7 +13,12 @@ html {
 h1 {
 	font-size: 3rem;
 	color: #d7d7d7;
+	transition: 2s;
 
+}
+
+h1:hover {
+	opacity: 0%;
 }
 
 hr {
